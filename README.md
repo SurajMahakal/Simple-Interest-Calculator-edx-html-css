@@ -1,4 +1,4 @@
-#IBM Online Course
+Edx IBM Online Course
 
 A simple interest calculator
 
